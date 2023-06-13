@@ -1,0 +1,4 @@
+NOTAS DE LOS ALUMNOS
+
+nombre: Genaro, su nota es: 5
+nombre: David, su nota es: 6
