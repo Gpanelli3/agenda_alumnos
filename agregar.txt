@@ -1,5 +1,5 @@
 NOTAS DE LOS ALUMNOS
 
-nombre: David, su nota es: 5
-nombre: Genaro, su nota es: 8
-nombre: Mauro, su nota es: 10
+nombre: David Lopez, su nota es: 5
+nombre: Genaro Perez , su nota es: 6
+nombre: Mauro Sola, su nota es: 9

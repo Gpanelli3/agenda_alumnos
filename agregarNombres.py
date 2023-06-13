@@ -21,7 +21,7 @@ for i in range(0,cantidad):
     archivo.write('\n')
 
     lista_alumnos[alumno]=nota
-print(lista_alumnos)
+#print(lista_alumnos)
 
 
 archivo.close()
